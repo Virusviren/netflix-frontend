@@ -1,0 +1,58 @@
+.color-black {
+  background-color: #151515;
+  color: #e5e5e5;
+}
+.bg-dark {
+  background-color: #151515;
+}
+.navbar {
+  font-size: 20px;
+}
+.navbar-nav {
+  font-size: 15px;
+}
+.bi {
+  background: white;
+  background-color: #151515;
+  width: 20px;
+  margin: 10px;
+  right: 150px;
+}
+.kid {
+  margin-right: 10px;
+}
+.arrow-down {
+  color: #e5e5e5 !important;
+}
+.material-icons {
+  margin-right: 10px;
+  padding-top: 10px;
+  color: #535353;
+}
+.material-icons:hover {
+  color: #e5e5e5;
+}
+#dropdownMenu2 {
+  background-color: #151515;
+  margin-left: 10px;
+  padding-right: 2px;
+  padding-left: 2px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-radius: 0%;
+}
+
+#grid-view {
+  border: 1px solid #e5e5e5 !important;
+  font-size: 10px;
+}
+
+.gridactive {
+  border: 1px solid #e5e5e5 !important;
+  padding: 10px 10px 10px 10px;
+}
+
+.topic {
+  margin-left: 20px;
+  margin-top: 20px;
+}
